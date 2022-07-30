@@ -3,8 +3,6 @@
 Source - [FreeCodeCamp video](https://www.youtube.com/watch?v=GFO_txvwK_c&ab_channel=freeCodeCamp.org)
 
 
-Learn to make 2D games with HTML, CSS & plain vanilla JavaScript, no frameworks and no libraries! From sprite animation to state management, in this series of projects you will learn everything you need to make your own 2D animated games! We will go step by step explaining each technique on a small standalone codebase and then we will use everything we learned to make a single final game.
-
 ✏️ Course by [Frank's Laboratory](https://www.youtube.com/c/Frankslaboratory)
 
 <br><br>
@@ -81,8 +79,10 @@ Learn to make 2D games with HTML, CSS & plain vanilla JavaScript, no frameworks 
 
 🔗 [More art assets](https://bevouliin.com/)
 
-
+<br>
 ⭐️ Contents ⭐️
+<br>
+<br>
 0:00:00 Intro
 <br>
 0:01:28 Project 1: Vanilla JavaScript sprite animation techniques
