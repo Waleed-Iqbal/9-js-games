@@ -37,10 +37,15 @@ Source - [FreeCodeCamp video](https://www.youtube.com/watch?v=GFO_txvwK_c&ab_cha
 🕹 [Project 9: Final endless runner game with all the features](https://www.frankslaboratory.co.uk/downloads/dog_left_right_white.png)
 
 🕹 City background layers:
+<br>
 [Layer 1](https://www.frankslaboratory.co.uk/downloads/97/layer-1.png)
+<br>
 [Layer 2](https://www.frankslaboratory.co.uk/downloads/97/layer-2.png)
+<br>
 [Layer 3](https://www.frankslaboratory.co.uk/downloads/97/layer-3.png)
+<br>
 [Layer 4](https://www.frankslaboratory.co.uk/downloads/97/layer-4.png)
+<br>
 [Layer 5](https://www.frankslaboratory.co.uk/downloads/97/layer-5.png)
 
 🕹 [Fire texture](https://www.frankslaboratory.co.uk/downloads/97/fire.png)
@@ -51,32 +56,56 @@ Source - [FreeCodeCamp video](https://www.youtube.com/watch?v=GFO_txvwK_c&ab_cha
 🕹 [Heart](https://www.frankslaboratory.co.uk/downloads/97/heart.png)
 
 🕹 Forest background layers:
+<br>
 [Layer 1](https://www.frankslaboratory.co.uk/downloads/97/forest/layer-1.png)
+<br>
 [Layer 2](https://www.frankslaboratory.co.uk/downloads/97/forest/layer-2.png)
+<br>
 [Layer 3](https://www.frankslaboratory.co.uk/downloads/97/forest/layer-3.png)
+<br>
 [Layer 4](https://www.frankslaboratory.co.uk/downloads/97/forest/layer-4.png)
+<br>
 [Layer 5](https://www.frankslaboratory.co.uk/downloads/97/forest/layer-5.png)
 
 🕹 18 Enemies:
+<br>
 [Big spider](https://www.frankslaboratory.co.uk/downloads/97/enemy_spider_big.png)
+<br>
 [Bat 1](https://www.frankslaboratory.co.uk/downloads/97/enemy_bat_1.png)
+<br>
 [Spinner](https://www.frankslaboratory.co.uk/downloads/97/enemy_spinner.png)
+<br>
 [Small spider](https://www.frankslaboratory.co.uk/downloads/97/enemy_spider.png)
+<br>
 [Ghost 1](https://www.frankslaboratory.co.uk/downloads/97/enemy_ghost_1.png)
+<br>
 [Bat 2](https://www.frankslaboratory.co.uk/downloads/97/enemy_bat_2.png)
+<br>
 [Raven](https://www.frankslaboratory.co.uk/downloads/97/enemy_raven.png)
+<br>
 [Bat 3](https://www.frankslaboratory.co.uk/downloads/97/enemy_bat_3.png)
+<br>
 [Ghost 2](https://www.frankslaboratory.co.uk/downloads/97/enemy_ghost_2.png)
+<br>
 [Fly](https://www.frankslaboratory.co.uk/downloads/97/enemy_fly.png)
+<br>
 [Ghost 3](https://www.frankslaboratory.co.uk/downloads/97/enemy_ghost_3.png)
+<br>
 [Ghost 4](https://www.frankslaboratory.co.uk/downloads/97/enemy_ghost_4.png)
+<br>
 [Hand](https://www.frankslaboratory.co.uk/downloads/97/enemy_hand.png)
+<br>
 [Plant](https://www.frankslaboratory.co.uk/downloads/97/enemy_plant.png)
+<br>
 [Worm](https://www.frankslaboratory.co.uk/downloads/97/enemy_worm.png)
+<br>
 [Walking zombie](https://www.frankslaboratory.co.uk/downloads/97/enemy_zombie.png)
+<br>
 [Ground zombie](https://www.frankslaboratory.co.uk/downloads/97/enemy_ground_zombie.png)
+<br>
 [Digger](https://www.frankslaboratory.co.uk/downloads/97/enemy_digger.png)
-
+<br>
+<br>
 🔗 [More art assets](https://bevouliin.com/)
 
 <br>
