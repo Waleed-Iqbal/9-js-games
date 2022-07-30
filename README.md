@@ -84,14 +84,25 @@ Learn to make 2D games with HTML, CSS & plain vanilla JavaScript, no frameworks 
 
 ⭐️ Contents ⭐️
 0:00:00 Intro
+<br>
 0:01:28 Project 1: Vanilla JavaScript sprite animation techniques
+<br>
 0:43:07 Project 2: Parallax backgrounds
+<br>
 1:25:33 Project 3: Enemy movement patterns
+<br>
 2:13:31 Collision detection between rectangles
+<br>
 2:19:23 Collision detection between circles
+<br>
 2:24:14 Project 4: Collision animations from a sprite sheet
+<br>
 2:48:35 Project 5: Point & shoot game
+<br>
 3:50:44 Project 6: Enemy variety
+<br>
 4:45:49 Project 7: Side-scroller game with mobile support
+<br>
 5:54:04 Project 8: State management
+<br>
 7:02:57 Project 9: Final endless runner game with all the features
