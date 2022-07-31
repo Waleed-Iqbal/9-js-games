@@ -102,15 +102,6 @@ function animate() {
   }
 
   ctx.drawImage(...Object.values(drawImage))
-  // ctx.drawImage(playerImage, frameX * spriteWidth, frameY * spriteHeight, spriteWidth, spriteHeight, 0, 0, spriteWidth, spriteHeight);
-
-
-  // if (gameFrame % staggerFrame === 0) {
-  //   frameX = frameX < 6 ? frameX + 1 : 0;
-  //   // frameY = frameY < 12 ? frameY + 1 : 0;
-  //   gameFrame = 0
-  // }
-
 
   ++gameFrame;
   requestAnimationFrame(animate)
