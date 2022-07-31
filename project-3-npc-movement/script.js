@@ -4,7 +4,7 @@ const ctx = canvas.getContext('2d');
 
 const CANVAS_WIDTH = canvas.width = 500;
 const CANVAS_HEIGHT = canvas.height = 1000;
-const NUMBER_OF_ENEMIES = 100;
+const NUMBER_OF_ENEMIES = 3;
 const enemiesArray = []
 
 
@@ -14,10 +14,10 @@ let gameFrame = 0;
 class Enemy {
   constructor() {
     this.enemyImage = new Image();
-    this.enemyImage.src = "../Assets/project-3/enemy2.png"
+    this.enemyImage.src = "../Assets/project-3/enemy3.png"
     this.speed = Math.random() * 4 + 1;
-    this.spriteWidth = 266;
-    this.spriteHeigth = 188;
+    this.spriteWidth = 218;
+    this.spriteHeigth = 177;
     this.width = this.spriteWidth / 3.5;
     this.height = this.spriteHeigth / 3.5;
     this.x = Math.random() * (canvas.width - this.width);
@@ -25,13 +25,13 @@ class Enemy {
     this.frame = 0;
     this.flapSpeed = Math.floor(Math.random() * 3 + 1);
     this.angle = 0;
-    this.angleSpeed = Math.random() * 0.2;
-    this.curve = Math.random() * 7;
+    this.angleSpeed = Math.random() * 1.5 + 0.5;
+    this.curve = Math.random() * 200 + 50;
   }
 
   update() {
-    this.x -=  this.speed;
-    this.y += this.curve * Math.sin(this.angle);
+    this.x = canvas.width/2 * Math.sin(this.angle * Math.PI/90) + (canvas.width/2 - this.width/2);
+    this.y = canvas.height/2 * Math.cos(this.angle * Math.PI/180) + (canvas.height/2 - this.height/2);
     this.angle = this.angel > 1 || this.angel < -1 ? 0 : this.angle + this.angleSpeed;
 
     if(this.x + this.width < 0) this.x = canvas.width;
