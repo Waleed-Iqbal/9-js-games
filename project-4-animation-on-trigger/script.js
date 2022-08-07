@@ -11,16 +11,18 @@ class Explosion {
   constructor(x, y) {
     this.spriteWidth = 200;
     this.spriteHeight = 179;
-    
+
     // multipication is faster than division
     this.width = this.spriteWidth * 0.5;
     this.height = this.spriteHeight * 0.5;
-    
+
     this.x = x;
     this.y = y;
 
     this.image = new Image();
+    this.sound = new Audio();
     this.image.src = '../Assets/project-4/boom.png';
+    this.sound.src = '../Assets/project-4/ice-attack.wav'
 
     this.frame = 0;
     this.timer = 0;
@@ -28,8 +30,9 @@ class Explosion {
   }
 
   update() {
+    if (this.frame === 0) this.sound.play();
     ++this.timer;
-    if(this.timer % 8 === 0)  ++this.frame;
+    if (this.timer % 8 === 0) ++this.frame;
   }
 
   draw() {
@@ -53,7 +56,7 @@ class Explosion {
 
 window.addEventListener('click', createAnimation);
 
-function createAnimation (e) {
+function createAnimation(e) {
   const positionX = e.x - canvasPosition.left;
   const positionY = e.y - canvasPosition.top;
   explosions.push(new Explosion(positionX, positionY));
@@ -66,7 +69,7 @@ function animate() {
     explosion.update();
     explosion.draw();
 
-    if(explosion.frame > 5) explosions.splice(explosions.indexOf(explosion), 1)
+    if (explosion.frame > 5) explosions.splice(explosions.indexOf(explosion), 1)
   })
 
 
